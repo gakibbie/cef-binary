@@ -19,6 +19,9 @@
     <file src="..\cef_binary_3.y.z_windows64\Release\*.dll" target="CEF\x64" />
 	
     <file src="..\cef_binary_3.y.z_windows32\Resources\cef.pak" target="CEF\"/>
+    <file src="..\cef_binary_3.y.z_windows32\Resources\cef_100_percent.pak" target="CEF\"/>
+    <file src="..\cef_binary_3.y.z_windows32\Resources\cef_200_percent.pak" target="CEF\"/>
+    <file src="..\cef_binary_3.y.z_windows32\Resources\icudtl.dat" target="CEF\"/>
     <file src="..\cef_binary_3.y.z_windows32\Resources\devtools_resources.pak" target="CEF\"/>
     <file src="..\cef_binary_3.y.z_windows32\Resources\locales\en-US.pak" target="CEF\locales"/>
 
